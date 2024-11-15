@@ -16,6 +16,6 @@ This project implements logistic regression techniques to predict the risk of he
 To set up the project, clone the repository and install the required packages using the following commands:
 
 ```bash
-git clone https://github.com/yourusername/Predicting-Heart-Disease-Risk-with-Logistic-Regression.git
+git clone https://github.com/shafaq-aslam/Predicting-Heart-Disease-Risk-with-Logistic-Regression.git
 cd Predicting-Heart-Disease-Risk-with-Logistic-Regression
 pip install -r requirements.txt
