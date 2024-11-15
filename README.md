@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Usage
 Run the Jupyter Notebook for training and evaluating the logistic regression model:
 
-jupyter notebook <a href = "Heart_Disease_Prediction.ipynb">
+<a href = "Heart_Disease_Prediction.ipynb"> jupyter notebook <a/>
 
 ## Work Flow
 
