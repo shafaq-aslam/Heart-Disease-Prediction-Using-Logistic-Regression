@@ -6,6 +6,7 @@ This project implements logistic regression techniques to predict the risk of he
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Work Flow](#work-flow)
 - [Dataset](#dataset)
 - [Model Evaluation](#model-evaluation)
 - [Results](#results)
