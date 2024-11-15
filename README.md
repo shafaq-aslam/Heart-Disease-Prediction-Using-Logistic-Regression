@@ -31,7 +31,7 @@ Run the Jupyter Notebook for training and evaluating the logistic regression mod
 <img src = "workflow.jpeg">
 
 ## Dateset
-The dataset used for this project contains various health metrics, including age, cholesterol levels, blood pressure, and other relevant features that contribute to heart disease risk.
+The dataset used for this project contains various health metrics, including age, cholesterol levels, blood pressure, and other relevant features that contribute to heart disease risk. <a href="framingham.csv"> Dataset <a/>
 
 ## Model Evaluation
 The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score to ensure reliable predictions.
