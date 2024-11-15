@@ -20,3 +20,10 @@ To set up the project, clone the repository and install the required packages us
 git clone https://github.com/shafaq-aslam/Predicting-Heart-Disease-Risk-with-Logistic-Regression.git
 cd Predicting-Heart-Disease-Risk-with-Logistic-Regression
 pip install -r requirements.txt
+```
+## Usage
+Run the Jupyter Notebook for training and evaluating the logistic regression model:
+
+```bash
+jupyter notebook Notebook.ipynb
+```
