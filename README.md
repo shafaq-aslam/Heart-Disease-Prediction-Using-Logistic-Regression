@@ -33,3 +33,12 @@ jupyter notebook Heart_Disease_Prediction.ipynb
 
 ## Dateset
 The dataset used for this project contains various health metrics, including age, cholesterol levels, blood pressure, and other relevant features that contribute to heart disease risk.
+
+## Model Evaluation
+The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score to ensure reliable predictions.
+
+## Results
+The logistic regression model demonstrates high accuracy in predicting heart disease risk, providing valuable insights for healthcare professionals.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
