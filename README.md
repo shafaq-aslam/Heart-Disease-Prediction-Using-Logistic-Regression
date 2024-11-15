@@ -11,8 +11,7 @@ This project implements logistic regression techniques to predict the risk of he
 - [Model Evaluation](#model-evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Installation
 To set up the project, clone the repository and install the required packages using the following commands:
 
